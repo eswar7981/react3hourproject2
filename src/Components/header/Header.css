@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    border:solid;
+
+}
+
+.logo{
+    margin-left: 100px;
+}
+
+
+.cart-icon{
+    margin-left: 800px;
+}

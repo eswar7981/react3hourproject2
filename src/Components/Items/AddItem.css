@@ -1,0 +1,15 @@
+.search-item{
+    padding-bottom: 30px;
+    margin-top:20px;
+    display: grid;
+    border: solid;
+
+}
+
+.inputs{
+display:flex;   
+}
+
+.inputs label{
+    margin-left: 20px;
+}
